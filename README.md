@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mithunvitharana&label=Profile%20views&color=0e75b6&style=flat" alt="mithunvitharana" /> </p>
 
-<p align="center">---</p>
+
 
 - 🔭 I’m currently working on **test**
 
